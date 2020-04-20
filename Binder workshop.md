@@ -1,7 +1,7 @@
 Binder workshop
 ===============
 
-[Back to master schedule](https://hackmd.io/kt_gMYKIQz2MbloD9mSCyQ)
+[Back to master schedule](Living%20Agenda%20and%20Linkout%20Notes%20for%20CarpentryConnect%20Davis!.md)
 
 ## Forget about reading, let's do something!
 

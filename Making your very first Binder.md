@@ -21,7 +21,7 @@ tags: dibsi, binder
 - "Fixing" and sharing a rendered version of a research compendium being entered into the scholarly record so that reviewers, readers, and possible reusers may evaluate the findings 
 
 - What *is* Binder?
-    - Paraphrasing [Carol's summary](https://hackmd.io/s/S1fWYzBfQ#): it's a service, a way to display your work (eg with Jupyter notebooks or R Shiny), a clickable badge you can get for a GitHub repo, and a project you can deploy 
+    - Paraphrasing [Carol's summary](Binder%20workshop.md): it's a service, a way to display your work (eg with Jupyter notebooks or R Shiny), a clickable badge you can get for a GitHub repo, and a project you can deploy 
     - A [diagram](https://github.com/dmgt/binder_brainstorming/blob/master/binder_diagram_draft.pdf) targeting novices 
         - novice gave feedback this still assumed things they hadn't seen before eg what is a container anyway?
     - [Official diagram](http://binderhub.readthedocs.io/en/latest/overview.html) from documentation

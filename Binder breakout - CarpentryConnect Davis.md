@@ -14,7 +14,7 @@ Outline from Carol and Titus' Binder talk + demo at CarpentryConnect: [outline](
 
 #### Ideas from breakout planning: 
 - Write up Binder setup process from yesterday
-    - **Docs in progress [here]()**
+    - **Docs in progress [here](Making%20your%20very%20first%20Binder.md)**
     - **Upload screenshots** [here](https://github.com/dmgt/binder_tutorial_screenshots) (can move elsewhere if helpful)
     - First by forking example [here](https://github.com/binder-examples/r) (in R but pretty similar for other examples)
         - Add note on how to open with RStudio instead of Jupyter in Binder
