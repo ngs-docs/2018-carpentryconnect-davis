@@ -10,11 +10,11 @@ Gail Coletedflins: @repositorian
 More people: Yuvi, Gail, Abigail, Sateesh, Titus...
 
 ---
-Outline from Carol and Titus' Binder talk + demo at CarpentryConnect: https://hackmd.io/s/S1fWYzBfQ#
+Outline from Carol and Titus' Binder talk + demo at CarpentryConnect: [outline](Binder%20breakout%20-%20CarpentryConnect%20Davis.md)
 
 #### Ideas from breakout planning: 
 - Write up Binder setup process from yesterday
-    - **Docs in progress [here](https://hackmd.io/qol_olKmTmi_TaLk2UuZSA#)**
+    - **Docs in progress [here]()**
     - **Upload screenshots** [here](https://github.com/dmgt/binder_tutorial_screenshots) (can move elsewhere if helpful)
     - First by forking example [here](https://github.com/binder-examples/r) (in R but pretty similar for other examples)
         - Add note on how to open with RStudio instead of Jupyter in Binder
@@ -22,7 +22,7 @@ Outline from Carol and Titus' Binder talk + demo at CarpentryConnect: https://ha
         - Hao did this [here](https://github.com/ha0ye/Power_of_Irma)
 
 - Try setting up Binders for different use cases (add use cases you are excited about below!)
-- Collect questions (useful for development of FAQ and feedback for [upcoming Binder workshop](https://github.com/dib-lab/CarpentryConWest18/issues/4#issuecomment-400768559) in Birmindham )
+- Collect questions (useful for development of FAQ and feedback for [upcoming Binder workshop](https://github.com/dib-lab/CarpentryConWest18/issues/4#issuecomment-400768559) in Birmingham )
 
 
 ### Questions
